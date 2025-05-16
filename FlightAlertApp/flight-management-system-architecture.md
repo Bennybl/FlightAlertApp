@@ -151,8 +151,7 @@ The Alert Management component should be implemented using:
 
 1. ASP.NET Core Web API for the RESTful service
 2. Entity Framework Core for database access
-3. JWT-based authentication for security
-4. Repository pattern for data access abstraction
+3. Repository pattern for data access abstraction
 
 ### Key Models
 
