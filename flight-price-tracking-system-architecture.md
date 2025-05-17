@@ -1,6 +1,6 @@
-# Flight Management System Architecture
+# Flight Price Tracking System Architecture
 
-This document provides a comprehensive overview of the flight management system architecture, explaining each component and the data flow between them. The system is designed to receive flight price information from external sources, process price changes, notify users of relevant price changes, and manage user alerts.
+This document provides a comprehensive overview of the Flight Price Tracking system architecture, explaining each component and the data flow between them. The system is designed to receive flight price information from external sources, process price changes, notify users of relevant price changes, and manage user alerts.
 
 ## System Components
 
